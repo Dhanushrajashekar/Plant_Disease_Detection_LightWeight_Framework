@@ -1,0 +1,7 @@
+torch
+torchvision
+gradio
+pandas
+timm
+Pillow
+requests
