@@ -1,6 +1,6 @@
 # Plant Disease Detection Lightweight Framework
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)(LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework)](https://github.com/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework)](https://github.com/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework/network)
 
