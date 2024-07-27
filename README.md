@@ -1,8 +1,5 @@
 # Plant Disease Detection Lightweight Framework
 
-![Project Banner](https://your-image-url.com/banner.png)
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework/CI.yml?branch=main)](https://github.com/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework/actions)
 [![License](https://img.shields.io/github/license/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework)](https://github.com/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework)](https://github.com/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework/network)
