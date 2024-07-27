@@ -1,0 +1,3 @@
+[submodule "hugging_Face_Deployment/Plant_Leaf_Disease_Detection_LightWeight_Model"]
+	path = hugging_Face_Deployment/Plant_Leaf_Disease_Detection_LightWeight_Model
+	url = https://github.com/Dhanushrajashekar/Plant_Leaf_Disease_Detection_LightWeight_Model.git
