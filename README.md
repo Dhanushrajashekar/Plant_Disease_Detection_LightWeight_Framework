@@ -28,7 +28,7 @@ The framework is designed to be lightweight, making it suitable for deployment o
 
 The model is deployed on Hugging Face Spaces. You can interact with the model and see it in action using the link below:
 
-[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-orange)](https://huggingface.co/spaces/Cringe1324/Plant_Leaf_Disease_Detection_LightWeight_Model)
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-orange)](https://huggingface.co/spaces/Cringe1324/Plant_Leaf_Disease_Detection_LightWeight_Model)  ---> Click on it to be redirected to the GUI interface!
 
 ## Metadata
 
