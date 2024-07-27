@@ -86,3 +86,7 @@ To use this repository and run the code locally, follow these steps:
    ```bash
    git clone https://github.com/Dhanushrajashekar/Plant_Disease_Detection_LightWeight_Framework.git
    cd Plant_Disease_Detection_LightWeight_Framework
+
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
