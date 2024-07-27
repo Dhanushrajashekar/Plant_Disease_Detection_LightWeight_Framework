@@ -90,3 +90,20 @@ To use this repository and run the code locally, follow these steps:
 2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
+
+2. **GUI Preview**:
+   Here is a preview of the graphical user interface (GUI) for the Plant Disease Detection application:
+   ![image](https://github.com/user-attachments/assets/8100d717-0907-45aa-99c8-7b06fff16d40)
+
+
+2. **Install Dependencies**:
+   
+   pip install -r requirements.txt
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Developed and maintained by [Dhanushrajashekar](https://github.com/Dhanushrajashekar)*
